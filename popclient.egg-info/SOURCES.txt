@@ -1,0 +1,13 @@
+popclient/__init__.py
+popclient/__main__.py
+popclient.egg-info/PKG-INFO
+popclient.egg-info/SOURCES.txt
+popclient.egg-info/dependency_links.txt
+popclient.egg-info/top_level.txt
+popclient/lib/__init__.py
+popclient/lib/credentials.py
+popclient/lib/message.py
+popclient/lib/pop3.py
+popclient/lib/smtp.py
+popclient/tests/__init__.py
+popclient/tests/credentials_tests.py
